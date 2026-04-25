@@ -1,0 +1,5 @@
+Car Registration Number: fe34, Return Date: 2023-01-24, Status: Available
+Car Registration Number: C100000, Return Date: 2023-01-23, Status: Available
+Car Registration Number: BNL228, Return Date: 2023-01-25, Status: Available
+Car Registration Number: WWC3032, Return Date: 2023-01-24, Status: Available
+Car Registration Number: ASD1234, Return Date: 2023-01-24, Status: Available

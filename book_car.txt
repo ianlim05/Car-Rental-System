@@ -1,0 +1,8 @@
+Customer ID: C100002, Car Registration Number: JH32, Rental Date: 23 January 2023, Return Date: 25 January 2023, Rental Periods (Days): 2
+Customer ID: C100003, Car Registration Number: JH32, Rental Date: 23 January 2023, Return Date: 25 January 2023, Rental Periods (Days): 2, Status: Reserved
+Customer ID: C100003, Car Registration Number: BNL228, Rental Date: 30 January 2023, Return Date: 31 January 2023, Rental Periods (Days): 1, Status: Reserved
+Customer ID: C100003, Car Registration Number: BNL228, Rental Date: 23 January 2023, Return Date: 24 January 2023, Rental Periods (Days): 1, Status: Reserved
+Customer ID: C100000, Car Registration Number: BNL228, Rental Date: 23 January 2023, Return Date: 24 January 2023, Rental Periods (Days): 1, Status: Reserved
+Customer ID: C000001, Car Registration Number: BNL228, Rental Date: 24 January 2023, Return Date: 25 January 2023, Rental Periods (Days): 1, Status: Reserved
+Customer ID: C000001, Car Registration Number: WWC3032, Rental Date: 23 January 2023, Return Date: 24 January 2023, Rental Periods (Days): 1, Status: Reserved
+Customer ID: C000001, Car Registration Number: BNL2778, Rental Date: 12 March 2024, Return Date: 13 March 2024, Rental Periods (Days): 1, Status: Reserved

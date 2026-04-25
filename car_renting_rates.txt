@@ -1,0 +1,3 @@
+Passenger: 4, Rate: 300
+Passenger: 7, Rate: 400
+Passenger: 9, Rate: 600

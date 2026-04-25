@@ -1,0 +1,1 @@
+Customer ID: C000001 | Name: Dya | NRIC: 1233 | License: 3344 | Address: 543 | Phone: 332 | Registration Date: 20-05-2024

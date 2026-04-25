@@ -1,0 +1,4 @@
+Customer ID: C100003, Car Registration Number: BNL4783, Rental Date: 23 January 2023, Return Date: 25 January 2023, Rental Periods (Days): 2, Total Rental: RM400.00, Status: Rented
+Customer ID: C100003, Car Registration Number: BNL4783, Rental Date: 12 January 2023, Return Date: 13 January 2023, Rental Periods (Days): 1, Total Rental: RM200.00, Status: Rented
+Customer ID: C000001, Car Registration Number: WWC3032, Rental Date: 23 January 2023, Return Date: 24 January 2023, Rental Periods (Days): 1, Total Rental: RM60.00, Status: Rented
+Customer ID: C000001, Car Registration Number: ASD1234, Rental Date: 23 January 2023, Return Date: 24 January 2023, Rental Periods (Days): 1, Total Rental: RM201.00, Status: Rented

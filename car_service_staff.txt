@@ -1,0 +1,1 @@
+username: Chan, name: Chan kar jun, password: 1234, role: Car Service Staff, registerdate: 16-04-2024, age: 19, DOB: 22 08 2005, contact information: 0126420822, gender: Male

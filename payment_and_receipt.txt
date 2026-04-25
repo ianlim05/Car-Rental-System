@@ -1,0 +1,54 @@
+Customer ID: C100003
+Payment Date: 27 April 2024
+Total Amount Paid: $0.00
+
+
+Receipt:
+Customer ID: C100003
+Total Amount: RM542.00
+Thank you for your payment!
+
+Receipt:
+Customer ID: C100003
+Total Amount: RM542.00
+Thank you for your payment!
+
+Receipt:
+Customer ID: C100003
+Total Amount: RM542.00
+Thank you for your payment!
+
+Receipt:
+Customer ID: C100003
+Total Amount: RM542.00
+Thank you for your payment!
+
+Receipt:
+Customer ID: C100003
+Total Amount: RM542.00
+Thank you for your payment!
+
+Receipt:
+Customer ID: C100000
+Total Amount: RM200.00
+Thank you for your payment!
+
+Receipt:
+Customer ID: C000001
+Total Amount: RM200.00
+Thank you for your payment!
+
+Receipt:
+Customer ID: C000001
+Total Amount: RM60.00
+Thank you for your payment!
+
+Receipt:
+Customer ID: C000001
+Total Amount: RM60.00
+Thank you for your payment!
+
+Receipt:
+Customer ID: C000001
+Total Amount: RM201.00
+Thank you for your payment!
